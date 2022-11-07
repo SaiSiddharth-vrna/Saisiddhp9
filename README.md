@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saisiddhp9
 - 👀 I’m interested in full stack development and looking to further explore more advanced technologies
-- 🌱 I’m currently learning angulaJS
+- 🌱 I’m currently learning angularJS
 ..
 
 <!---
